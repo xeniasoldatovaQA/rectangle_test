@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.xenias;
 
 public class RtriangleProvider {
     public static Rtriangle getRtriangle(){

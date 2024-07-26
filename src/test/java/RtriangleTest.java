@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
-import ru.netology.Rtriangle;
-import ru.netology.RtriangleProvider;
+import ru.xenias.Rtriangle;
+import ru.xenias.RtriangleProvider;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
